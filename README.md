@@ -11,9 +11,6 @@ Dive into my 📸 Image Gallery, a vibrant project crafted with HTML and CSS. Ex
 
 👁️‍🗨️ Preview: Witness the gallery in action:
 
-Project Preview GIF
-
-🚀 Live Demo | 💻 GitHub Repo
 
 Unleash your feedback and let's shape this gallery's journey together! 🔥
 
